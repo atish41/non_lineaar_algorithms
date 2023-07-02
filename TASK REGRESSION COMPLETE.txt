@@ -1,0 +1,36 @@
+
+=======================================
+
+TASK FOR COMPLETE REGRESSION -
+
+TASK-1 :: Python Basic Code Practise (Class Session) 
+TASK-2 :: Python Data Structures (Class Session)
+TASK-3 :: Class task :: Matrix Visualization (Class Session)
+TASK-4 :: https://scipy.github.io/old-wiki/pages/Numpy_Example_List.html
+TASK-5 :: Pandas DataFrame (Class Session)
+TASK-6 :: https://www.kaggle.com/harunshimanto/pandas-with-data-science-ai 
+TASK-7 :: Class Session (Advance visualization - IRIS Dataset)
+TASK-8 :: https://www.kaggle.com/getting-started/111712   (Matplotlib & Seaborn visualization)
+TASK-9 :: Movie Rating Analysis (EDA)
+TASK-10 :: https://www.kaggle.com/prashant111/matplotlib-tutorial-for-beginners
+TASK-11 : https://www.kaggle.com/prashant111/seaborn-tutorial-for-beginners
+TASK-12 : https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners
+TASK-13: EDA : Bank Loan Default Risk Analysis | Kaggle ( USE THIS FOR YOUR RESUME PURPOSE)
+TASK-12 :: Data Pre-processing  (MACHINE LEARNING) // (Class session)
+TASK-13 :: https://www.kaggle.com/anirban7/data-preprocessing-for-beginners 
+TASK-14 :: Simple Liner Regression
+TASK-15 :: Multiple Linear Regression
+TASK-16 :: https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression
+TASK-17 :: https://www.kaggle.com/divan0/multiple-linear-regression
+TASK-18 :: Polynomial Regression 
+TASK-19 :: SVR 
+TASK-20 :: DECISSION TREE
+TASK-21 :: RANDOM FOREST
+TASK-22 :: COMPLETE REGRESSION WITH BUSINESS CASE STUDY
+   PART 1 - https://www.kaggle.com/mohammedmurtuzalabib/pandas-101-one-stop-shop-for-data-science
+   PART 2 - https://www.kaggle.com/ladylittlebee/linreg-knn-svr-decisiontreerandomforest-timeseries
+   PART 3 - https://www.kaggle.com/zarahshibli/avocado-price-regression
+   PART 4 - https://www.kaggle.com/ayushikaushik/comparison-of-all-regression-models
+
+
+
